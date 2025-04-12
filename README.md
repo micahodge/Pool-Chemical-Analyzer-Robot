@@ -1,22 +1,23 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Pool Chemical Analyzer Robot (In Progress)</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-This project is still in progress
+This project is still in progress.
 <br />
 
 
-<h2></h2>
+<h2>Sensors and Electronics Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Arduino Mega 2560</b> 
+- <b>pH Sensor</b>
+- <b>Temperature Sensor</b>
 
-<h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+<h2>Challenges and Solutions</h2>
 
-<h2>Program walk-through:</h2>
+- <b></b> 
+
+<h2>Photos:</h2>
 
 <p align="center">
 Launch the utility: <br/>
