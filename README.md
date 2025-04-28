@@ -1,4 +1,4 @@
-<h1>Pool Chemical Analyzer Robot (In Progress)</h1>
+<h1>Pool Chemical Analyzer System (In Progress)</h1>
 
 
 <h2>Description</h2>
@@ -11,7 +11,8 @@ This project is still in progress.
 - <b>Arduino Mega 2560</b> 
 - <b>pH Sensor</b>
 - <b>Temperature Sensor</b>
-
+- <b>ORP (Oxidation-Reduction Potential) Sensor</b>
+- <b>TDS (Total Dissolved Solids) Sensor</b>
 
 <h2>Challenges and Solutions</h2>
 
