@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a5dd351c-87e1-431f-b45e-85de9b22298e)<h1>Pool Chemical Analyzer System</h1>
+<h1>Pool Chemical Analyzer System</h1>
 
  ### [YouTube Demonstration of Pool Chemical Analyzer System](https://youtube.com/shorts/VGaUMzMEgl8)
 
