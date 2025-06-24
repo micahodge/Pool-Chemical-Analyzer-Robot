@@ -1,4 +1,4 @@
-<h1>Pool Chemical Analyzer System</h1>
+![image](https://github.com/user-attachments/assets/a5dd351c-87e1-431f-b45e-85de9b22298e)<h1>Pool Chemical Analyzer System</h1>
 
  ### [YouTube Demonstration of Pool Chemical Analyzer System](https://youtube.com/shorts/VGaUMzMEgl8)
 
@@ -22,15 +22,14 @@ This was a simple system that would record data from my above-ground pool and di
 <h2>Photos:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="" height="50%" width="50%" />
+Open View: <br/>
+<img src="https://imgur.com/a/U03iq59" height="50%" width="50%" />
 <br />
 <br />
-Select the disk:  <br/>
-<img src="" height="50%" width="50%" />
+In the Poop View:  <br/>
+<img src="https://imgur.com/a/1RfjfZF" height="50%" width="50%" />
 <br />
-<br />
-Enter the number of passes: <br/>
-<img src="" height="50%" width="50%" />
-<br />
-<br />
+ <br/>
+Closed View: <br/>
+<img src="https://imgur.com/a/uD5Ncsh" height="50%" width="50%" />
+<br/>
