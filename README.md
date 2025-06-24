@@ -23,13 +23,13 @@ This was a simple system that would record data from my above-ground pool and di
 
 <p align="center">
 Open View: <br/>
-<img src="https://imgur.com/a/U03iq59" height="50%" width="50%" />
+<img src="https://i.imgur.com/k0QO8sx.jpeg" height="50%" width="50%" />
 <br />
 <br />
 In the Poop View:  <br/>
-<img src="https://imgur.com/a/1RfjfZF" height="50%" width="50%" />
+<img src="https://i.imgur.com/1EVftWx.jpeg" height="50%" width="50%" />
 <br />
  <br/>
 Closed View: <br/>
-<img src="https://imgur.com/a/uD5Ncsh" height="50%" width="50%" />
+<img src="https://i.imgur.com/Dd81JpS.jpeg" height="50%" width="50%" />
 <br/>
