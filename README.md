@@ -1,5 +1,6 @@
 <h1>Pool Chemical Analyzer System</h1>
 
+ ### [YouTube Demonstration of Pool Chemical Analyzer System](https://youtube.com/shorts/VGaUMzMEgl8)
 
 <h2>Description</h2>
 This was a simple system that would record data from my above-ground pool and display the data onto four mini OLED screens for the user to read. I used this project for a final exam for my college Mechatronics course. This device would detect the pool's temperature, pH, chlorine levels, and TDS (total dissolved solids). Each OLED screen would have three corresponding LED lights (red, yellow, and green) that would tell the user if the outputted value was a good, average, or bad value. This device would float in the pool all day, every day, and could be used at any time. The purpose of this device was that, unless you want to spend hundreds to thousands of dollars, there is no affordable device out there that can track all of these readings at once. That is why I chose this for my final project for this class.
