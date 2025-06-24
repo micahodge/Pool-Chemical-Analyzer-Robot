@@ -1,4 +1,4 @@
-<h1>Pool Chemical Analyzer System (In Progress)</h1>
+<h1>Pool Chemical Analyzer System</h1>
 
 
 <h2>Description</h2>
