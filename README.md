@@ -2,8 +2,8 @@
 
 
 <h2>Description</h2>
-This project is still in progress.
-<br />
+This was a simple system that would record data from my above-ground pool and display the data onto four mini OLED screens for the user to read. This device would detect the pool's temperature, pH, chlorine levels, and TDS (total dissolved solids). This device would float in the pool all day, every day, and could be used at any time. The purpose of this device was that, unless you want to spend hundreds to thousands of dollars, there is no affordable device out there that can track all of these readings at once. That is why I built this.
+<br/>
 
 
 <h2>Sensors and Electronics Used</h2>
@@ -16,7 +16,7 @@ This project is still in progress.
 
 <h2>Challenges and Solutions</h2>
 
-- <b></b> 
+- <b>One of the main problems that I dealt with was the method of detecting the chlorine levels in the water. I could not find a chlorine sensor out there that was cheap enough for my liking. Instead, I bought an ORP (Oxidation-Reduction Potential) sensor, which shows readings that correlate with how effectively the chlorine is working in the water. The one issue with the readings from the ORP sensor is that these readings could be easily affected by the pH of the pool. To fix this, I wrote code to consider the pH value when calculating the chlorine values. </b> 
 
 <h2>Photos:</h2>
 
