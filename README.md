@@ -26,7 +26,7 @@ Open View: <br/>
 <img src="https://i.imgur.com/k0QO8sx.jpeg" height="50%" width="50%" />
 <br />
 <br />
-In the Poop View:  <br/>
+In the Pool View:  <br/>
 <img src="https://i.imgur.com/1EVftWx.jpeg" height="50%" width="50%" />
 <br />
  <br/>
